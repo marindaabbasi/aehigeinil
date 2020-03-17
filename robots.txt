@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iezofareil.b-my.kr/sitemap.xml
